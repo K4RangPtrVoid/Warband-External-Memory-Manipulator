@@ -84,7 +84,7 @@ int main()
         cout << "Enjeksiyon Başarılı!" << endl;
     }
 
-    cout << "Nihat Okyar Tarafından hazırlandı" << endl;
+    cout << "PtrVoid TarafındanKodlandı" << endl;
 
     // Entity Offset listesi (oyundaki karakterlerin listesine erişim için)
     vector<unsigned int> EntityOffset{ 0x4, 0x2B0, 0x134, 0x110, 0xC };
